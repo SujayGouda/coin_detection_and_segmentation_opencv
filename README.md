@@ -1,6 +1,11 @@
 # coin_detection_and_segmentation_opencv
-Detects the number of coins in an Image provided using OpenCV Hough Transformation and outputs with labelled circles on detected coins with serial numbers. Further Segments the coins by drawing vertical lines in between.
+For an given Image: 
+1. Pre-processes the image using OpenCV
+2. Apply Hpugh Transformation to detect contours (Circles)
+3. Label the coins with circles and serial numbers 
+4. If coins are apart from each other segment the coins by drawing a vertical line
 
+## Preview:
 ### Test input image:
 
 ![alt text](https://github.com/SujayGouda/coin_detection_and_segmentation_opencv/blob/main/test_input/test1.jpg?raw=true)
