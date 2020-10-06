@@ -1,9 +1,18 @@
 # coin_detection_and_segmentation_opencv
 For an given Image: 
 1. Pre-processes the image using OpenCV
-2. Applies Hpugh Transformation to detect contours (Circles)
+2. Applies Hough Transformation to detect contours (Circles)
 3. Labels the coins with circles and serial numbers 
 4. If coins are apart from each other, then segments the coins by drawing a vertical line
+
+### Libraries:
+OpenCV
+
+Numpy
+
+Matplotlib 
+
+itertools
 
 ## Preview:
 ### Test input image:
