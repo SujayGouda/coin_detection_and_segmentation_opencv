@@ -7,11 +7,8 @@ For an given Image:
 
 ### Libraries:
 OpenCV
-
 Numpy
-
 Matplotlib 
-
 itertools
 
 ## Preview:
