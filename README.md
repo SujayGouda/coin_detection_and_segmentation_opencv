@@ -1,6 +1,6 @@
 # coin_detection_and_segmentation_opencv
 
-## Test input image:
+### Test input image:
 
 ![alt text](https://github.com/SujayGouda/coin_detection_and_segmentation_opencv/blob/main/test_input/test1.jpg?raw=true)
 
