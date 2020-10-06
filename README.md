@@ -1,9 +1,15 @@
 # coin_detection_and_segmentation_opencv
 
-a. Detects the number of coins in the image
+# Test input image:
 
-b. Labels the coins with serial numbers 
+![alt text](https://github.com/SujayGouda/coin_detection_and_segmentation_opencv/blob/main/test_input/test1.jpg?raw=true)
 
-c. Draws a vertical line in between coins (segmentation)
+
+# a. Detects the number of coins in the image and Labels the coins with serial numbers 
+
+![alt text](https://github.com/SujayGouda/coin_detection_and_segmentation_opencv/blob/main/sample_output/out1.png?raw=true)
+
+
+# b.(Segmentation)Draws a vertical line in between coins 
 
 ![alt text](https://github.com/SujayGouda/coin_detection_and_segmentation_opencv/blob/main/sample_output/test1.jpg?raw=true)
